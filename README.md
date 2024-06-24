@@ -16,10 +16,11 @@
 - Bagikan hasilnya ke teman-temanmu!
 
   # Demo
-  https://alvinalfandy.github.io
+  - https://alvinalfandy.github.io
 
 ![image](https://github.com/alvinalfandy/cek-khodam-script/assets/64345368/4dcd458b-7034-4368-b1fe-34525b98b756)
 
 
 # Download Script
 - Langsung aja download script di 
+https://github.com/alvinalfandy/cek-khodam-script/blob/main/index.html
